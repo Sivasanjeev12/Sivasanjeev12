@@ -7,5 +7,5 @@
 <!---
 Sivasanjeev12/Sivasanjeev12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-https://github.com/Ctzfamily/VegetaRobot/blob/8585635e140e9ba172aac8e7bf5ec485b10a7846/VegetaRobot/modules/fun.py
+
+Hi 
